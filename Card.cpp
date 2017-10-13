@@ -2,7 +2,7 @@
  *Title: Card.cpp
  *Date: 2/22/2017
  *Author: Saajid Farooq
- *Description: This is the player class for the exploding kittens game
+ *Description: This is the card class for the exploding kittens game
 */
 
 #include "Card.h"
