@@ -1,3 +1,10 @@
+/*
+ *Title: Game.cpp
+ *Date: 2/22/2017
+ *Author: Saajid Farooq
+ *Description: This is the file for all the game functions for the exploding kittens game
+*/
+
 #include <fstream>
 #include "Game.h"
 
